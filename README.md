@@ -25,8 +25,9 @@ To meet their expectations, I made these changes:
 ## MOCK UP
 
 The Horiseon website is located here: 
+<!-- added link here -->
+[deployed horiseon link](https://yellowbell55.github.io/horiseon-refractor/)
 <!-- add screenshot here -->
-
-
+![horiseon screenshot](./assets/images/_C__Users_barba_bootcamp_horiseon-refractor_index.html.png)
 
 
